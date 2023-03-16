@@ -1,0 +1,666 @@
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Checking whether the C compiler is IAR using "" did not match "IAR .+ Compiler":
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-ci4rzj
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_12c55\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"  -f CMakeFiles\cmTC_12c55.dir\build.make /nologo -L                  CMakeFiles\cmTC_12c55.dir\build
+Building C object CMakeFiles/cmTC_12c55.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_12c55.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-ci4rzj --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm2A6C.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_12c55.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_12c55.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_12c55.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm2C9F.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_12c55.dir/manifest.res CMakeFiles\cmTC_12c55.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-7ytsi5
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_5ea27\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"  -f CMakeFiles\cmTC_5ea27.dir\build.make /nologo -L                  CMakeFiles\cmTC_5ea27.dir\build
+Building C object CMakeFiles/cmTC_5ea27.dir/testCCompiler.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_5ea27.dir\testCCompiler.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-7ytsi5 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm2EFF.tmp
+testCCompiler.c
+Linking C executable cmTC_5ea27.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5ea27.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_5ea27.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm3133.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_5ea27.dir/manifest.res CMakeFiles\cmTC_5ea27.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-kzgrv0
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_d5669\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"  -f CMakeFiles\cmTC_d5669.dir\build.make /nologo -L                  CMakeFiles\cmTC_d5669.dir\build
+Building C object CMakeFiles/cmTC_d5669.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_d5669.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-kzgrv0 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmE6C6.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_d5669.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d5669.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_d5669.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmE8FA.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_d5669.dir/manifest.res CMakeFiles\cmTC_d5669.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-15p8b9
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_db0d0\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"  -f CMakeFiles\cmTC_db0d0.dir\build.make /nologo -L                  CMakeFiles\cmTC_db0d0.dir\build
+Building C object CMakeFiles/cmTC_db0d0.dir/testCCompiler.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_db0d0.dir\testCCompiler.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-15p8b9 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmEB5A.tmp
+testCCompiler.c
+Linking C executable cmTC_db0d0.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_db0d0.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_db0d0.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmED7E.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_db0d0.dir/manifest.res CMakeFiles\cmTC_db0d0.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-me44cr
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_374e0\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"  -f CMakeFiles\cmTC_374e0.dir\build.make /nologo -L                  CMakeFiles\cmTC_374e0.dir\build
+Building C object CMakeFiles/cmTC_374e0.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_374e0.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-me44cr --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm3D14.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_374e0.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_374e0.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_374e0.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm3F38.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_374e0.dir/manifest.res CMakeFiles\cmTC_374e0.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-205q73
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_db149\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"  -f CMakeFiles\cmTC_db149.dir\build.make /nologo -L                  CMakeFiles\cmTC_db149.dir\build
+Building C object CMakeFiles/cmTC_db149.dir/testCCompiler.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_db149.dir\testCCompiler.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-205q73 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm4198.tmp
+testCCompiler.c
+Linking C executable cmTC_db149.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_db149.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_db149.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm43BC.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_db149.dir/manifest.res CMakeFiles\cmTC_db149.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Detecting C compiler ABI info failed to compile with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-porvhu
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_7e36f\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"  -f CMakeFiles\cmTC_7e36f.dir\build.make /nologo -L                  CMakeFiles\cmTC_7e36f.dir\build
+Building C object CMakeFiles/cmTC_7e36f.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_7e36f.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-porvhu --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm5D9C.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_7e36f.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7e36f.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_7e36f.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm5FC0.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_7e36f.dir/manifest.res CMakeFiles\cmTC_7e36f.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+
+Determining if the C compiler works failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-45dsmp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_2e44c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"  -f CMakeFiles\cmTC_2e44c.dir\build.make /nologo -L                  CMakeFiles\cmTC_2e44c.dir\build
+Building C object CMakeFiles/cmTC_2e44c.dir/testCCompiler.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_2e44c.dir\testCCompiler.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-45dsmp --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm629D.tmp
+testCCompiler.c
+Linking C executable cmTC_2e44c.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2e44c.dir --rc=rc --mt=CMAKE_MT-NOTFOUND --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_2e44c.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm64C1.tmp
+RC Pass 1: command "rc /fo CMakeFiles\cmTC_2e44c.dir/manifest.res CMakeFiles\cmTC_2e44c.dir/manifest.rc" failed (exit code 0) with the following output:
+The system cannot find the file specifiedNMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Determining if the WINPCAP_PRODUCT_NAME exist failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-in2qjh
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_4df52\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_4df52.dir\build.make /nologo -L                  CMakeFiles\cmTC_4df52.dir\build
+Building C object CMakeFiles/cmTC_4df52.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_4df52.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-in2qjh --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmAD7D.tmp
+CheckSymbolExists.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-in2qjh\CheckSymbolExists.c(2): fatal error C1083: Cannot open include file: 'C:/Users/Red/Documents/sniffer/lpcap/../../version.h': No such file or directory
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+File CheckSymbolExists.c:
+/* */
+#include <C:/Users/Red/Documents/sniffer/lpcap/../../version.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef WINPCAP_PRODUCT_NAME
+  return ((int*)(&WINPCAP_PRODUCT_NAME))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file unistd.h exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-0yu5hu
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_24fd7\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_24fd7.dir\build.make /nologo -L                  CMakeFiles\cmTC_24fd7.dir\build
+Building C object CMakeFiles/cmTC_24fd7.dir/CheckIncludeFile.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_24fd7.dir\CheckIncludeFile.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-0yu5hu --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmC25C.tmp
+CheckIncludeFile.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-0yu5hu\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'unistd.h': No such file or directory
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Determining if the include file bitypes.h exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-uz5dld
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_350d0\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_350d0.dir\build.make /nologo -L                  CMakeFiles\cmTC_350d0.dir\build
+Building C object CMakeFiles/cmTC_350d0.dir/CheckIncludeFile.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_350d0.dir\CheckIncludeFile.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-uz5dld --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmC51B.tmp
+CheckIncludeFile.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-uz5dld\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'bitypes.h': No such file or directory
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Performing C SOURCE FILE Test HAVE___ATOMIC_LOAD_N failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-4z3gmz
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_fb30c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_fb30c.dir\build.make /nologo -L                  CMakeFiles\cmTC_fb30c.dir\build
+Building C object CMakeFiles/cmTC_fb30c.dir/src.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_fb30c.dir\src.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-4z3gmz --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmC7BB.tmp
+src.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-4z3gmz\src.c(5): error C2065: '__ATOMIC_RELAXED': undeclared identifier
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Source file was:
+int
+main(void)
+{
+	int i = 17;
+	return __atomic_load_n(&i, __ATOMIC_RELAXED);
+}
+
+
+Performing C SOURCE FILE Test HAVE___ATOMIC_STORE_N failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-3orlcc
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_37df5\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_37df5.dir\build.make /nologo -L                  CMakeFiles\cmTC_37df5.dir\build
+Building C object CMakeFiles/cmTC_37df5.dir/src.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_37df5.dir\src.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-3orlcc --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmCA4C.tmp
+src.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-3orlcc\src.c(5): error C2065: '__ATOMIC_RELAXED': undeclared identifier
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Source file was:
+int
+main(void)
+{
+	int i;
+	__atomic_store_n(&i, 17, __ATOMIC_RELAXED);
+	return 0;
+}
+
+
+Determining if the function strerror_r exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-2tttvv
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_cad2d\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_cad2d.dir\build.make /nologo -L                  CMakeFiles\cmTC_cad2d.dir\build
+Building C object CMakeFiles/cmTC_cad2d.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_cad2d.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-2tttvv --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmD587.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_cad2d.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_cad2d.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_cad2d.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmD7AA.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_cad2d.dir\objects1 /out:cmTC_cad2d.exe /implib:cmTC_cad2d.lib /pdb:C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-2tttvv\cmTC_cad2d.pdb /version:0.0 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_cad2d.dir/intermediate.manifest CMakeFiles\cmTC_cad2d.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _strerror_r referenced in function _main
+cmTC_cad2d.exe : fatal error LNK1120: 1 unresolved externals
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Determining if the function strlcpy exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-kowqa7
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_5f6dd\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_5f6dd.dir\build.make /nologo -L                  CMakeFiles\cmTC_5f6dd.dir\build
+Building C object CMakeFiles/cmTC_5f6dd.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_5f6dd.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-kowqa7 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmF4F5.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_5f6dd.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5f6dd.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_5f6dd.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmF70A.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_5f6dd.dir\objects1 /out:cmTC_5f6dd.exe /implib:cmTC_5f6dd.lib /pdb:C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-kowqa7\cmTC_5f6dd.pdb /version:0.0 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_5f6dd.dir/intermediate.manifest CMakeFiles\cmTC_5f6dd.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _strlcpy referenced in function _main
+cmTC_5f6dd.exe : fatal error LNK1120: 1 unresolved externals
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Determining if the function strlcat exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-uq9gam
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_7abd8\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_7abd8.dir\build.make /nologo -L                  CMakeFiles\cmTC_7abd8.dir\build
+Building C object CMakeFiles/cmTC_7abd8.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_7abd8.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-uq9gam --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmF9D7.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_7abd8.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_7abd8.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_7abd8.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmFBEC.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_7abd8.dir\objects1 /out:cmTC_7abd8.exe /implib:cmTC_7abd8.lib /pdb:C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-uq9gam\cmTC_7abd8.pdb /version:0.0 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_7abd8.dir/intermediate.manifest CMakeFiles\cmTC_7abd8.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _strlcat referenced in function _main
+cmTC_7abd8.exe : fatal error LNK1120: 1 unresolved externals
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Determining if the function asprintf exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-6voew8
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_cc704\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_cc704.dir\build.make /nologo -L                  CMakeFiles\cmTC_cc704.dir\build
+Building C object CMakeFiles/cmTC_cc704.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_cc704.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-6voew8 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmFF27.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_cc704.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_cc704.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_cc704.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm14B.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_cc704.dir\objects1 /out:cmTC_cc704.exe /implib:cmTC_cc704.lib /pdb:C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-6voew8\cmTC_cc704.pdb /version:0.0 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_cc704.dir/intermediate.manifest CMakeFiles\cmTC_cc704.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _asprintf referenced in function _main
+cmTC_cc704.exe : fatal error LNK1120: 1 unresolved externals
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Determining if the function vasprintf exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-p8mkrs
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_2d266\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_2d266.dir\build.make /nologo -L                  CMakeFiles\cmTC_2d266.dir\build
+Building C object CMakeFiles/cmTC_2d266.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_2d266.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-p8mkrs --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm409.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_2d266.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2d266.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_2d266.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm717.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_2d266.dir\objects1 /out:cmTC_2d266.exe /implib:cmTC_2d266.lib /pdb:C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-p8mkrs\cmTC_2d266.pdb /version:0.0 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_2d266.dir/intermediate.manifest CMakeFiles\cmTC_2d266.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _vasprintf referenced in function _main
+cmTC_2d266.exe : fatal error LNK1120: 1 unresolved externals
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Determining if the function strtok_r exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-7z6aou
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_b3ef2\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_b3ef2.dir\build.make /nologo -L                  CMakeFiles\cmTC_b3ef2.dir\build
+Building C object CMakeFiles/cmTC_b3ef2.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_b3ef2.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-7z6aou --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm9D5.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_b3ef2.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b3ef2.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_b3ef2.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmBF9.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_b3ef2.dir\objects1 /out:cmTC_b3ef2.exe /implib:cmTC_b3ef2.lib /pdb:C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-7z6aou\cmTC_b3ef2.pdb /version:0.0 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_b3ef2.dir/intermediate.manifest CMakeFiles\cmTC_b3ef2.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _strtok_r referenced in function _main
+cmTC_b3ef2.exe : fatal error LNK1120: 1 unresolved externals
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Determining if the getnetbyname_r exist failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-7jfsqj
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_07948\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_07948.dir\build.make /nologo -L                  CMakeFiles\cmTC_07948.dir\build
+Building C object CMakeFiles/cmTC_07948.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_07948.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-7jfsqj --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm1AFC.tmp
+CheckSymbolExists.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-7jfsqj\CheckSymbolExists.c(2): fatal error C1083: Cannot open include file: 'netdb.h': No such file or directory
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+File CheckSymbolExists.c:
+/* */
+#include <netdb.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getnetbyname_r
+  return ((int*)(&getnetbyname_r))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the getprotobyname_r exist failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-z3ocbp
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_d8d6c\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_d8d6c.dir\build.make /nologo -L                  CMakeFiles\cmTC_d8d6c.dir\build
+Building C object CMakeFiles/cmTC_d8d6c.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_d8d6c.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-z3ocbp --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm1D8C.tmp
+CheckSymbolExists.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-z3ocbp\CheckSymbolExists.c(2): fatal error C1083: Cannot open include file: 'netdb.h': No such file or directory
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+File CheckSymbolExists.c:
+/* */
+#include <netdb.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getprotobyname_r
+  return ((int*)(&getprotobyname_r))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining size of socklen_t failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-a82ojv
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_f1fd3\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_f1fd3.dir\build.make /nologo -L                  CMakeFiles\cmTC_f1fd3.dir\build
+Building C object CMakeFiles/cmTC_f1fd3.dir/SOCKLEN_T.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_f1fd3.dir\SOCKLEN_T.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-a82ojv --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm3B55.tmp
+SOCKLEN_T.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-a82ojv\SOCKLEN_T.c(30): error C2065: 'socklen_t': undeclared identifier
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-a82ojv\SOCKLEN_T.c(31): error C2065: 'socklen_t': undeclared identifier
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-a82ojv\SOCKLEN_T.c(32): error C2065: 'socklen_t': undeclared identifier
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-a82ojv\SOCKLEN_T.c(33): error C2065: 'socklen_t': undeclared identifier
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-a82ojv\SOCKLEN_T.c(34): error C2065: 'socklen_t': undeclared identifier
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+SOCKLEN_T.c:
+#include <sys/types.h>
+#include <stdint.h>
+#include <stddef.h>
+#include "winsock2.h"
+
+
+#undef KEY
+#if defined(__i386)
+# define KEY '_','_','i','3','8','6'
+#elif defined(__x86_64)
+# define KEY '_','_','x','8','6','_','6','4'
+#elif defined(__PPC64__)
+# define KEY '_','_','P','P','C','6','4','_','_'
+#elif defined(__ppc64__)
+# define KEY '_','_','p','p','c','6','4','_','_'
+#elif defined(__PPC__)
+# define KEY '_','_','P','P','C','_','_'
+#elif defined(__ppc__)
+# define KEY '_','_','p','p','c','_','_'
+#elif defined(__aarch64__)
+# define KEY '_','_','a','a','r','c','h','6','4','_','_'
+#elif defined(__ARM_ARCH_7A__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','A','_','_'
+#elif defined(__ARM_ARCH_7S__)
+# define KEY '_','_','A','R','M','_','A','R','C','H','_','7','S','_','_'
+#endif
+
+#define SIZE (sizeof(socklen_t))
+static char info_size[] =  {'I', 'N', 'F', 'O', ':', 's','i','z','e','[',
+  ('0' + ((SIZE / 10000)%10)),
+  ('0' + ((SIZE / 1000)%10)),
+  ('0' + ((SIZE / 100)%10)),
+  ('0' + ((SIZE / 10)%10)),
+  ('0' +  (SIZE    % 10)),
+  ']',
+#ifdef KEY
+  ' ','k','e','y','[', KEY, ']',
+#endif
+  '\0'};
+
+#ifdef __CLASSIC_C__
+int main(argc, argv) int argc; char *argv[];
+#else
+int main(int argc, char *argv[])
+#endif
+{
+  int require = 0;
+  require += info_size[argc];
+  (void)argv;
+  return require;
+}
+
+
+Performing C SOURCE FILE Test HAVE_STRUCT_SOCKADDR_SA_LEN failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-2vdpub
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_f3f32\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_f3f32.dir\build.make /nologo -L                  CMakeFiles\cmTC_f3f32.dir\build
+Building C object CMakeFiles/cmTC_f3f32.dir/src.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_f3f32.dir\src.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-2vdpub --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm3EA1.tmp
+src.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-2vdpub\src.c(6): error C2039: 'sa_len': is not a member of 'sockaddr'
+C:\Program Files (x86)\Windows Kits\8.1\include\\shared\ws2def.h(221): note: see declaration of 'sockaddr'
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Source file was:
+
+#include <winsock2.h>
+
+int main()
+{
+  (void)sizeof(((struct sockaddr *)0)->sa_len);
+  return 0;
+}
+
+
+Determining if the function ffs exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-yiikwr
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_f7486\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_f7486.dir\build.make /nologo -L                  CMakeFiles\cmTC_f7486.dir\build
+Building C object CMakeFiles/cmTC_f7486.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_f7486.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-yiikwr --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm41ED.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_f7486.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_f7486.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_f7486.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm4410.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_f7486.dir\objects1 /out:cmTC_f7486.exe /implib:cmTC_f7486.lib /pdb:C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-yiikwr\cmTC_f7486.pdb /version:0.0 /debug /INCREMENTAL /subsystem:console kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_f7486.dir/intermediate.manifest CMakeFiles\cmTC_f7486.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _ffs referenced in function _main
+cmTC_f7486.exe : fatal error LNK1120: 1 unresolved externals
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Determining if the function ether_hostton exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-p4kazo
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_43743\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_43743.dir\build.make /nologo -L                  CMakeFiles\cmTC_43743.dir\build
+Building C object CMakeFiles/cmTC_43743.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_43743.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-p4kazo --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm46CF.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_43743.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_43743.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_43743.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm48F2.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_43743.dir\objects1 /out:cmTC_43743.exe /implib:cmTC_43743.lib /pdb:C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-p4kazo\cmTC_43743.pdb /version:0.0 /debug /INCREMENTAL /subsystem:console ws2_32.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_43743.dir/intermediate.manifest CMakeFiles\cmTC_43743.dir/manifest.res" failed (exit code 1120) with the following output:
+CheckFunctionExists.c.obj : error LNK2019: unresolved external symbol _ether_hostton referenced in function _main
+cmTC_43743.exe : fatal error LNK1120: 1 unresolved externals
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Performing C SOURCE FILE Test PCAP_SUPPORT_NETMAP failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-gyp5pf
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_bc62b\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_bc62b.dir\build.make /nologo -L                  CMakeFiles\cmTC_bc62b.dir\build
+Building C object CMakeFiles/cmTC_bc62b.dir/src.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_bc62b.dir\src.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-gyp5pf --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm4D66.tmp
+src.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-gyp5pf\src.c(2): fatal error C1083: Cannot open include file: 'net/netmap_user.h': No such file or directory
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Source file was:
+#define NETMAP_WITH_LIBS
+#include <net/netmap_user.h>
+
+int
+main(void)
+{
+    return 0;
+}
+
+
+Determining if the function ibv_get_device_list exists in the ibverbs failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-ca2tqd
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_18579\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_18579.dir\build.make /nologo -L                  CMakeFiles\cmTC_18579.dir\build
+Building C object CMakeFiles/cmTC_18579.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_18579.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-ca2tqd --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm4FF6.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_18579.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_18579.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_18579.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm521A.tmp
+LINK Pass 1: command "C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_18579.dir\objects1 /out:cmTC_18579.exe /implib:cmTC_18579.lib /pdb:C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-ca2tqd\cmTC_18579.pdb /version:0.0 /debug /INCREMENTAL /subsystem:console ibverbs.lib kernel32.lib user32.lib gdi32.lib winspool.lib shell32.lib ole32.lib oleaut32.lib uuid.lib comdlg32.lib advapi32.lib /MANIFEST /MANIFESTFILE:CMakeFiles\cmTC_18579.dir/intermediate.manifest CMakeFiles\cmTC_18579.dir/manifest.res" failed (exit code 1104) with the following output:
+LINK : fatal error LNK1104: cannot open file 'ibverbs.lib'
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0xffffffff'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Determining if the include file msg.h exists failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-lk6yd6
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_0b794\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_0b794.dir\build.make /nologo -L                  CMakeFiles\cmTC_0b794.dir\build
+Building C object CMakeFiles/cmTC_0b794.dir/CheckIncludeFile.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_0b794.dir\CheckIncludeFile.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-lk6yd6 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm54B9.tmp
+CheckIncludeFile.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-lk6yd6\CheckIncludeFile.c(1): fatal error C1083: Cannot open include file: 'msg.h': No such file or directory
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+
+Performing C SOURCE FILE Test HAVE_STRUCT_MSGHDR_MSG_CONTROL failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-qekw9e
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_d1ad0\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_d1ad0.dir\build.make /nologo -L                  CMakeFiles\cmTC_d1ad0.dir\build
+Building C object CMakeFiles/cmTC_d1ad0.dir/src.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_d1ad0.dir\src.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-qekw9e --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm57F5.tmp
+src.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-qekw9e\src.c(3): fatal error C1083: Cannot open include file: 'sys/socket.h': No such file or directory
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Source file was:
+
+#include <ftmacros.h>
+#include <sys/socket.h>
+
+int main()
+{
+  (void)sizeof(((struct msghdr *)0)->msg_control);
+  return 0;
+}
+
+
+Performing C SOURCE FILE Test HAVE_STRUCT_MSGHDR_MSG_FLAGS failed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-wf0w32
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_4cafb\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_4cafb.dir\build.make /nologo -L                  CMakeFiles\cmTC_4cafb.dir\build
+Building C object CMakeFiles/cmTC_4cafb.dir/src.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_4cafb.dir\src.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-wf0w32 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm5A85.tmp
+src.c
+C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-wf0w32\src.c(3): fatal error C1083: Cannot open include file: 'sys/socket.h': No such file or directory
+NMAKE : fatal error U1077: '"C:\Program Files\CMake\bin\cmake.exe"' : return code '0x2'
+Stop.
+NMAKE : fatal error U1077: '"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"' : return code '0x2'
+Stop.
+
+
+Source file was:
+
+#include <ftmacros.h>
+#include <sys/socket.h>
+
+int main()
+{
+  (void)sizeof(((struct msghdr *)0)->msg_flags);
+  return 0;
+}
+
+

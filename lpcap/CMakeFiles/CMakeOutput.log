@@ -1,0 +1,306 @@
+The system is: Windows - 10.0.19045 - AMD64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.obj"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.obj"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.obj"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe 
+Build flags: 
+Id flags: -c 
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.obj"
+
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: C:/Program Files (x86)/Microsoft Visual Studio 14.0/VC/bin/cl.exe 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+Microsoft (R) C/C++ Optimizing Compiler Version 19.00.24215.1 for x86
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+CMakeCCompilerId.c
+Microsoft (R) Incremental Linker Version 14.00.24215.1
+Copyright (C) Microsoft Corporation.  All rights reserved.
+
+/out:CMakeCCompilerId.exe 
+CMakeCCompilerId.obj 
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.exe"
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "CMakeCCompilerId.obj"
+
+The C compiler identification is MSVC, found in "C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/3.25.2/CompilerIdC/CMakeCCompilerId.exe"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-7chvi8
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_a2977\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_a2977.dir\build.make /nologo -L                  CMakeFiles\cmTC_a2977.dir\build
+Building C object CMakeFiles/cmTC_a2977.dir/CMakeCCompilerABI.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_a2977.dir\CMakeCCompilerABI.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-7chvi8 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm907F.tmp
+CMakeCCompilerABI.c
+Linking C executable cmTC_a2977.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_a2977.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_a2977.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm9310.tmp
+
+
+
+Determining if the function PacketIsLoopbackAdapter exists passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-te9qv8
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_2bc4e\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_2bc4e.dir\build.make /nologo -L                  CMakeFiles\cmTC_2bc4e.dir\build
+Building C object CMakeFiles/cmTC_2bc4e.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_2bc4e.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-te9qv8 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm9BC9.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_2bc4e.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_2bc4e.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_2bc4e.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm9E6A.tmp
+
+
+
+Determining if the function PacketGetTimestampModes exists passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-lv6v4l
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_340e6\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_340e6.dir\build.make /nologo -L                  CMakeFiles\cmTC_340e6.dir\build
+Building C object CMakeFiles/cmTC_340e6.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_340e6.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-lv6v4l --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmA4D2.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_340e6.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_340e6.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_340e6.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmA705.tmp
+
+
+
+Determining if the include file inttypes.h exists passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-x2at7e
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_b0980\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_b0980.dir\build.make /nologo -L                  CMakeFiles\cmTC_b0980.dir\build
+Building C object CMakeFiles/cmTC_b0980.dir/CheckIncludeFile.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_b0980.dir\CheckIncludeFile.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-x2at7e --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmB03C.tmp
+CheckIncludeFile.c
+Linking C executable cmTC_b0980.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_b0980.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_b0980.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmB28E.tmp
+
+
+
+Determining if the include file stdint.h exists passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-5pg751
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_3789b\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_3789b.dir\build.make /nologo -L                  CMakeFiles\cmTC_3789b.dir\build
+Building C object CMakeFiles/cmTC_3789b.dir/CheckIncludeFile.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_3789b.dir\CheckIncludeFile.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-5pg751 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmB9A2.tmp
+CheckIncludeFile.c
+Linking C executable cmTC_3789b.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3789b.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_3789b.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmBBD5.tmp
+
+
+
+Determining if the function strerror exists passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-k1pfny
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_366ce\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_366ce.dir\build.make /nologo -L                  CMakeFiles\cmTC_366ce.dir\build
+Building C object CMakeFiles/cmTC_366ce.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_366ce.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-k1pfny --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmCCDC.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_366ce.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_366ce.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_366ce.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmCF00.tmp
+
+
+
+Determining if the function _wcserror_s exists passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-8yj6tb
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_9501b\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_9501b.dir\build.make /nologo -L                  CMakeFiles\cmTC_9501b.dir\build
+Building C object CMakeFiles/cmTC_9501b.dir/CheckFunctionExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_9501b.dir\CheckFunctionExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-8yj6tb --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmDA69.tmp
+CheckFunctionExists.c
+Linking C executable cmTC_9501b.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_9501b.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_9501b.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmDC7D.tmp
+
+
+
+Determining if the vsnprintf exist passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-2srk94
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_3fb0a\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_3fb0a.dir\build.make /nologo -L                  CMakeFiles\cmTC_3fb0a.dir\build
+Building C object CMakeFiles/cmTC_3fb0a.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_3fb0a.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-2srk94 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmE323.tmp
+CheckSymbolExists.c
+Linking C executable cmTC_3fb0a.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3fb0a.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_3fb0a.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmE566.tmp
+
+
+File CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef vsnprintf
+  return ((int*)(&vsnprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the snprintf exist passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-hagv24
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_3f9d5\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_3f9d5.dir\build.make /nologo -L                  CMakeFiles\cmTC_3f9d5.dir\build
+Building C object CMakeFiles/cmTC_3f9d5.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_3f9d5.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-hagv24 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmEBED.tmp
+CheckSymbolExists.c
+Linking C executable cmTC_3f9d5.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_3f9d5.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_3f9d5.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nmEE30.tmp
+
+
+File CheckSymbolExists.c:
+/* */
+#include <stdio.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef snprintf
+  return ((int*)(&snprintf))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the getaddrinfo exist passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-hco77e
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_8ffa6\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_8ffa6.dir\build.make /nologo -L                  CMakeFiles\cmTC_8ffa6.dir\build
+Building C object CMakeFiles/cmTC_8ffa6.dir/CheckSymbolExists.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_8ffa6.dir\CheckSymbolExists.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-hco77e --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nmEB7.tmp
+CheckSymbolExists.c
+Linking C executable cmTC_8ffa6.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_8ffa6.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_8ffa6.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm1475.tmp
+
+
+File CheckSymbolExists.c:
+/* */
+#include <winsock2.h>
+#include <ws2tcpip.h>
+
+int main(int argc, char** argv)
+{
+  (void)argv;
+#ifndef getaddrinfo
+  return ((int*)(&getaddrinfo))[argc];
+#else
+  (void)argc;
+  return 0;
+#endif
+}
+
+Determining if the include file sys/types.h exists passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-ycjho0
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_d0cb2\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_d0cb2.dir\build.make /nologo -L                  CMakeFiles\cmTC_d0cb2.dir\build
+Building C object CMakeFiles/cmTC_d0cb2.dir/CheckIncludeFile.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_d0cb2.dir\CheckIncludeFile.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-ycjho0 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm202C.tmp
+CheckIncludeFile.c
+Linking C executable cmTC_d0cb2.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_d0cb2.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_d0cb2.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm225F.tmp
+
+
+
+Determining if the include file stddef.h exists passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-632uq1
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_65bd3\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_65bd3.dir\build.make /nologo -L                  CMakeFiles\cmTC_65bd3.dir\build
+Building C object CMakeFiles/cmTC_65bd3.dir/CheckIncludeFile.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_65bd3.dir\CheckIncludeFile.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-632uq1 --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm28C7.tmp
+CheckIncludeFile.c
+Linking C executable cmTC_65bd3.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_65bd3.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_65bd3.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm2B68.tmp
+
+
+
+Determining size of struct sockaddr_storage passed with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-ny4z4s
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_1a7c6\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_1a7c6.dir\build.make /nologo -L                  CMakeFiles\cmTC_1a7c6.dir\build
+Building C object CMakeFiles/cmTC_1a7c6.dir/STRUCT_SOCKADDR_STORAGE.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_1a7c6.dir\STRUCT_SOCKADDR_STORAGE.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-ny4z4s --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm31D0.tmp
+STRUCT_SOCKADDR_STORAGE.c
+Linking C executable cmTC_1a7c6.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_1a7c6.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_1a7c6.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm34BF.tmp
+
+
+
+Performing C SOURCE FILE Test wd4646 succeeded with the following output:
+Change Dir: C:/Users/Red/Documents/sniffer/lpcap/CMakeFiles/CMakeScratch/TryCompile-fllywb
+
+Run Build Command(s):nmake -f Makefile /nologo cmTC_5e9e4\fast && 	"C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\BIN\nmake.exe"  -f CMakeFiles\cmTC_5e9e4.dir\build.make /nologo -L                  CMakeFiles\cmTC_5e9e4.dir\build
+Building C object CMakeFiles/cmTC_5e9e4.dir/src.c.obj
+	"C:\Program Files\CMake\bin\cmake.exe" -E cmake_cl_compile_depends --dep-file=CMakeFiles\cmTC_5e9e4.dir\src.c.obj.d --working-dir=C:\Users\Red\Documents\sniffer\lpcap\CMakeFiles\CMakeScratch\TryCompile-fllywb --filter-prefix="Note: including file: " -- C:\PROGRA~2\MICROS~1.0\VC\bin\cl.exe @C:\Users\Red\AppData\Local\Temp\nm5D16.tmp
+src.c
+Linking C executable cmTC_5e9e4.exe
+	"C:\Program Files\CMake\bin\cmake.exe" -E vs_link_exe --intdir=CMakeFiles\cmTC_5e9e4.dir --rc=rc --mt=C:\PROGRA~2\WI3CF2~1\8.1\bin\x86\mt.exe --manifests -- C:\PROGRA~2\MICROS~1.0\VC\bin\link.exe /nologo @CMakeFiles\cmTC_5e9e4.dir\objects1 @C:\Users\Red\AppData\Local\Temp\nm5F49.tmp
+
+
+Source file was:
+int main(void) { return 0; }
+
